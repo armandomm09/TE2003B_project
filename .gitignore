@@ -1,3 +1,5 @@
 others
 .venv
 photos
+
+.DS_Store
